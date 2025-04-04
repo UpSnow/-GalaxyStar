@@ -14,7 +14,7 @@ public class calcular {
         System.out.println("3. Multiplicação");
         System.out.println("4. Divisão");
 
-        // Lê a escolha da operação
+        // Lê a escolha da operaçã
         int operacao = scanner.nextInt();
 
         // Lê os números para a operação
